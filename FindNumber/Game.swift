@@ -11,6 +11,10 @@ enum StatusGame {
     case start
     case win
     case lose
+    
+    
+    
+    
 }
 
 
